@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ernesto! </h2>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/ernesto1v/ActiveDirectoryLab)
 
